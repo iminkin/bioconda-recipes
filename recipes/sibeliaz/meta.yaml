@@ -1,5 +1,5 @@
 {% set version = "1.2.2" %}
-{% set sha256 = "06adae757d1b8ea2f6b33f6646dbf7991ed84a3b3f83edbe4a532bf329d4d5b5" %}
+{% set sha256 = "159716b619db8ddfe07ac5c048a6937aa193a9ddc9a0d80389242be4b873b343" %}
 
 package:
   name: sibeliaz
